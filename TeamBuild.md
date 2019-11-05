@@ -61,3 +61,42 @@
 - [ニムト](http://www.mobius-games.co.jp/Amigo/6nimmt.htm)
 - [ボブジテン](http://gamemarket.jp/game/%E3%83%9C%E3%83%96%E3%82%B8%E3%83%86%E3%83%B3/)
 
+
+## 1on1
+
+週一に30分程度ですが、メンバーとの1on1を設けます。
+
+ここでの目的としては、
+
+- メンバーとの相互理解
+- メンバーが現状困っていることをヒヤリングすること
+- メンバーの技術指向を知る
+
+三番目の技術指向については、メンバーがどのような方向に進んでいきたいのかを知り、チームの目標にどれだけリンクさせるかを見ていきます。
+
+# Team Learning Session
+
+チームでの勉強の時間を1日に30分〜1時間設けます。
+
+新メンバーが入ってきたときのオンボーディングも兼ねて
+
+
+### 現在やっているもの
+
+- vimの扱い方
+- bashのtestツール、batsの使い方
+- html,cssの基礎知識
+- dockerのインストール、docker build、runなど
+- testcafeの使い方
+
+### 参考
+[仕事をよりクリエイティブにするための「Learning Session」ノススメ \- LINE ENGINEERING](https://engineering.linecorp.com/ja/blog/recommend-learning-session/)
+
+
+# 以下、やりたいこと
+
+## チーム目標を立てる
+
+## チームスキルマップ
+
+
